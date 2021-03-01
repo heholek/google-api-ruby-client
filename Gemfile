@@ -9,7 +9,7 @@ group :development do
   gem 'rake', '~> 11.2'
   gem 'rspec', '~> 3.1'
   gem 'json_spec', '~> 1.1'
-  gem 'webmock', '~> 2.1'
+  gem 'webmock', '~> 3.12'
   gem 'simplecov', '~> 0.12'
   gem 'coveralls', '~> 0.8'
   gem 'rubocop', '~> 0.49.0'
